@@ -1,0 +1,17 @@
+{
+  "disclaimer": "This data is provided for informational purposes only.",
+  "license": "https://example.com/license",
+  "timestamp": 1622548800,
+  "base": "USD",
+  "rates": {
+    "EUR": 0.8215,
+    "GBP": 0.7170,
+    "JPY": 109.63,
+    "AUD": 1.2963,
+    "CAD": 1.2113,
+    "CHF": 0.8991,
+    "CNY": 6.3854,
+    "SEK": 8.3120,
+    "NZD": 1.3934
+  }
+}

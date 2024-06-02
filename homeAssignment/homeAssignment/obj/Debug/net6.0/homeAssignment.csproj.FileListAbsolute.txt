@@ -1,0 +1,17 @@
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\bin\Debug\net6.0\homeAssignment.exe
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\bin\Debug\net6.0\homeAssignment.deps.json
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\bin\Debug\net6.0\homeAssignment.runtimeconfig.json
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\bin\Debug\net6.0\homeAssignment.dll
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\bin\Debug\net6.0\homeAssignment.pdb
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.csproj.AssemblyReference.cache
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.AssemblyInfoInputs.cache
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.AssemblyInfo.cs
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.dll
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\refint\homeAssignment.dll
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.pdb
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.genruntimeconfig.cache
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\ref\homeAssignment.dll
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gilel\source\repos\homeAssignment\homeAssignment\obj\Debug\net6.0\homeAssignment.csproj.CopyComplete
